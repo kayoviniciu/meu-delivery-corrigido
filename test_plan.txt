@@ -20,7 +20,9 @@ ARQUIVO INDEX.HTML
 COMPUTADOR PARA TESTAR  
 
 
-# cronograma: 20 minutos
+# cronograma: 
+
+20 minutos
 
 # ferramentas utilizadas:
 
